@@ -1,0 +1,1 @@
+Projeto foi baseado na recem criada loja de doces da minha prima, toda inspiração para tal foi para ajuda-la.
